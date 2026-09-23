@@ -1,0 +1,6 @@
+{
+  "name": "PropertiERP - Enterprise ERP & POS System",
+  "description": "Integrated Enterprise ERP, POS, and Operations dashboard for property and retail businesses featuring real-time inventory, logistics kanban, customer CRM, attendance, and payroll.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
